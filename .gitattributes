@@ -1,6 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 #create a new folder
 mkdir project
 #create a two  files
