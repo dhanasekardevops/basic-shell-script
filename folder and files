@@ -1,0 +1,4 @@
+#create a new folder
+mkdir project
+#create a two  files
+touch file1 file2
