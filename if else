@@ -1,7 +1,8 @@
 #!/bin/bash
 a=10
 b=20
-if[ $a=$b ];then
+if [ $a = $b ]
+then
 echo "given number is same"
 else
 echo "given number is not same"
