@@ -1,0 +1,20 @@
+Shell script commands
+
+--> To list the files indetail
+
+    ls -ltr
+
+--> To list the files/folders  = ls
+
+--->To create the file
+
+ex : touch sample.file
+
+--> To know the usage of command using man
+
+ex  : man touch
+ex  : man ls
+
+--> To print the statement
+
+echo 
