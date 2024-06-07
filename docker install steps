@@ -1,0 +1,7 @@
+---> sudo apt-get update
+  To check the docker installed or not
+  ----> docker -v
+  
+  sudo apt install docker.io
+  sudo systemctl status docker
+  docker -v
