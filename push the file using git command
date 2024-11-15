@@ -1,0 +1,8 @@
+git config --global user.name "git_username"
+git config --global user.email "emailid@gmail.com"
+git init
+git status
+git add .
+git commit -m "commit name"
+git remote add origin "upload git url"
+git push -u origin branch_name
